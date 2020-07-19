@@ -1,2 +1,2 @@
-# My-Own-Library-C21
-contains algorithms for bounce off and is touching
+# p5.play-boilerplate
+Boiler plate for p5.play
